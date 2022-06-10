@@ -11,6 +11,6 @@ Here is a picture of me:
 Things I want to list:
 
 * I can swim and I like it
-* I'm going to Rutgers New Brunswick this fall
+* I'm going to Rutgers-New Brunswick this fall
 * I earned more than 20,000 points in CyberStart 
 
